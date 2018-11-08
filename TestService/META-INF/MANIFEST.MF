@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: TestService
+Bundle-SymbolicName: TestService
+Bundle-Version: 1.0.0.qualifier
+Export-Package: com.events.testservice,
+ com.events.testservice.dao,
+ com.events.testservice.entity,
+ com.events.testservice.repository,
+ com.events.testservice.rest.v1,
+ com.events.testservice.rest.v1.dto,
+ com.events.testservice.rest.v1.injected

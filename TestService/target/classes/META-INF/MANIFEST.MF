@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: admin
+Build-Jdk: 11.0.1
+Implementation-Title: TestService
+Implementation-Version: 1.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.events.testservice
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: com.events.testservice.ApplicationConfig
+Created-By: Maven Integration for Eclipse
+
